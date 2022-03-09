@@ -22,8 +22,3 @@ for(let i=0;i<vetorPalavra.length;i++) {
 
 if(isPalindromo) console.log(`A palavra ${palavra} é um palíndromo !`);
 else console.log(`A palavra ${palavra} não é um palíndromo !`);
-
-fdffffdfd
-fdffdfdfdfffdfdfdfdffdfdfdfffdfddds
-fdfdffdffdd
-fdafd
