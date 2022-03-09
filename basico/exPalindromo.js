@@ -24,6 +24,6 @@ if(isPalindromo) console.log(`A palavra ${palavra} é um palíndromo !`);
 else console.log(`A palavra ${palavra} não é um palíndromo !`);
 
 fdffffdfd
-fdfdffdfdffdfdfdffdds
+fdfdffdfdffdfdfdfffddds
 fdfdf
 fd
