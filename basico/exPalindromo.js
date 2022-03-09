@@ -12,7 +12,7 @@ let vetorPalavra = palavra.split(" ");
 let palindromo = [], isPalindromo = false;
 
 for(let i=vetorPalavra.length;i>0;i--) {
-    vetorPalavra[i] = palindromo[i];
+    palindromo[i] = vetorPalavra[i];
 }
 
 for(let i=0;i<vetorPalavra.length;i++) {
@@ -23,7 +23,7 @@ for(let i=0;i<vetorPalavra.length;i++) {
 if(isPalindromo) console.log(`A palavra ${palavra} é um palíndromo !`);
 else console.log(`A palavra ${palavra} não é um palíndromo !`);
 
-
+fdf
 
 
 
