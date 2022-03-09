@@ -26,4 +26,4 @@ else console.log(`A palavra ${palavra} não é um palíndromo !`);
 fdffffdfd
 fdffdfdffdfdffdfdfdfffdfddds
 fdfdffd
-fd
+fdafd
